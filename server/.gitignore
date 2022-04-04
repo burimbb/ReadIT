@@ -1,0 +1,6 @@
+uploads/croped/*
+uploads/documents/*
+uploads/trained/*
+uploads/zip/*
+deu.traineddata
+node_modules
